@@ -1,8 +1,5 @@
-Mavik-Thumbnails-J3
+Mavik-Thumbnails-J3: Mavik's Thumbnail plugin for Joomla 3.0
 ===================
-
-Mavik's Thumbnail plugin for Joomla 3.0
-
 
 This plugin is same as Mavik Thumbnails plugin for Joomla 2.5.
 
